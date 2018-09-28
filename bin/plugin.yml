@@ -1,0 +1,17 @@
+name: CUtils
+version: 1.0
+author: chrissx
+main: de.chrissx.CUtils.main
+description: 
+
+commands:
+ i:
+ v:
+ nick:
+ ip:
+ sethome:
+ home:
+ color:
+ commandspy:
+ broadcast:
+ bc:
